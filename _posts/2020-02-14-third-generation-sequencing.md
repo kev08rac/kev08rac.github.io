@@ -58,6 +58,8 @@ In conclusion, we have accelerated greatly in the processes of sequencing DNA si
 
 ## References
 1 Van Dijk EL, Jaszczyszyn Y, Naquin D, Thermes C. The Third Revolution in Sequencing Technology. Trends in genetics: TIG. 2018 Sep [accessed 2019 Nov 13]. https://www.ncbi.nlm.nih.gov/pubmed/29941292
+
 2 Third Generation Sequencing. 2016 Jun 13. YourGenome; [accessed 2019 Nov 13]. https://www.yourgenome.org/stories/third-generation-sequencing
+
 3,4,5,6,7 Ye C, Hill CM, Wu S, Ruan J, Ma Z(S. DBG2OLC: Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies. 2016 Aug 30 [accessed 2019 Nov 13]. https://www.nature.com/articles/srep31900
 
