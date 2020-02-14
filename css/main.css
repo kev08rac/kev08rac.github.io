@@ -45,3 +45,7 @@ ul.posts li {
 .img-circle {
   border-radius: 50%;
 }
+
+.col-sm-4 {
+    width: 33.33333333333333%;
+}
