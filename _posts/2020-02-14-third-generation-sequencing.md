@@ -4,7 +4,7 @@ title: "Third Generation Sequencing"
 date: 2020-02-14
 ---
 
-This is a blog post I wrote for my Written Professional Communication Course. It discusses briefly the history of genomic sequencing, the impact and problems of Illumina (Next-gen) Sequencing, and the potential methods and roadblocks of Third Gen Sequencing (3GS).
+This is a blog post I wrote for my Written Professional Communication Course. It discusses briefly the history of genomic sequencing, the impact and problems of Illumina (Next-gen) Sequencing, and the potential methods and roadblocks of Third Gen Sequencing (3GS). For the time being, pictures can be accessed here: https://github.com/kev08rac/kev08rac.github.io/blob/master/_posts/2020-02-14-third-generation-sequencing.md
 
 ## History of Previous Sequencing Techniques
 In 2019, if a person wants to have their entire genome sequenced, it will run them a small price of about $1000. This will allow anyone to see their unique combination of over 3 billion base pairs across their entire genome. However, around 10 years ago, this process cost over $100,000 and 10 years before that, it cost over $100 million.[1] How did we get to a point where virtually any individual can afford to have their DNA sequenced?
