@@ -57,7 +57,7 @@ One solution some researches are using right now is combining the techniques of 
 In conclusion, we have accelerated greatly in the processes of sequencing DNA since the 1970s and Sanger sequencing. I am very excited to be able to experience the rise of 3GS and hope it will have the same impact on NGS that NGS had on Sanger sequencing. I anticipate this will continue to increase the socioeconomic demographic eligible for personalized medicine, as well as advancements in gene therapy.
 
 ## References
-[1]: Van Dijk EL, Jaszczyszyn Y, Naquin D, Thermes C. The Third Revolution in Sequencing Technology. Trends in genetics: TIG. 2018 Sep [accessed 2019 Nov 13]. https://www.ncbi.nlm.nih.gov/pubmed/29941292
-[2]: Third Generation Sequencing. 2016 Jun 13. YourGenome; [accessed 2019 Nov 13]. https://www.yourgenome.org/stories/third-generation-sequencing
-[3,4,5,6,7]: Ye C, Hill CM, Wu S, Ruan J, Ma Z(S. DBG2OLC: Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies. 2016 Aug 30 [accessed 2019 Nov 13]. https://www.nature.com/articles/srep31900
+1 Van Dijk EL, Jaszczyszyn Y, Naquin D, Thermes C. The Third Revolution in Sequencing Technology. Trends in genetics: TIG. 2018 Sep [accessed 2019 Nov 13]. https://www.ncbi.nlm.nih.gov/pubmed/29941292
+2 Third Generation Sequencing. 2016 Jun 13. YourGenome; [accessed 2019 Nov 13]. https://www.yourgenome.org/stories/third-generation-sequencing
+3,4,5,6,7 Ye C, Hill CM, Wu S, Ruan J, Ma Z(S. DBG2OLC: Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies. 2016 Aug 30 [accessed 2019 Nov 13]. https://www.nature.com/articles/srep31900
 
