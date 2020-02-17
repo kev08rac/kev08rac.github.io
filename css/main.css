@@ -46,6 +46,8 @@ ul.posts li {
   border-radius: 50%;
 }
 
+img.avatar { margin-bottom: 30px; }
+
 .col-sm-4 {
     width: 33.33333333333333%;
 }
