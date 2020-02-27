@@ -51,3 +51,8 @@ img.avatar { margin-bottom: 30px; }
 .col-sm-4 {
     width: 33.33333333333333%;
 }
+
+.cv {line-height: 23px; width: 90%; margin: 0 auto;}
+.cv li { line-height: 23px; }
+.cv h2 { font-size: 26.5px; }
+.cv h1 { font-size: 32.5px; }
