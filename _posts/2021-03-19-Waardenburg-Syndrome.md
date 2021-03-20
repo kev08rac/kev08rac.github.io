@@ -4,21 +4,24 @@ title: "Waardenburg Syndrome"
 date: 2021-03-19
 ---
 
-#Waardenburg Syndrome
+# Waardenburg Syndrome
 
-###Inheritance, frequency, special populations
+### About
+This is a project in one of my graduate courses for human diseases. Our tast was to research and write a full report of a human mendelian disease, which includes epidemiological, genetic, etiological, and other information related to the disease. Overall, this was pretty fun to research and is probably my most detailed research paper assignment to date. 
+
+### Inheritance, frequency, special populations
 The inheritance of Waardenburg syndrome (WS) can vary based on your type of disease. However, almost all cases are caused by autosomal dominant mutations in the genes respective to the type of WS (Sheffer and Zlotogora, 1992). Although types III (Hoth et al., 1993) and IV (Shah et al., 1981) can be inherited by autosomal recessive means via consanguinity.
 
 WS is a rare disease, with about 1,400 cases described in literature. The worldwide incidence rate is estimated to be 1/40,000, with the highest rates coming from families in Kenya, Africa, where WS is responsible for 2%-5% of congenital hearing loss cases (Nayak, 2003). Originally, WS was thought to be localized in Northern European populations but has seen large cohorts in Africa and Asia as well. Other cases are widely sporadic across many regions and ethnicities such as African Americans (Hansen et al., 1965), and Maoris (Houghton, 1964), as well as other families worldwide.
 
-###Clinical features
+### Clinical features
 There are eight “cardinal diagnostic signs” for the identification of WS. These were defined by Pardona et al. (2003) as telecanthus (increase distance of inner eyes) (~94.1%), synophrys (fusion of eyebrows) (~73.3%), iris pigmentation disturbances (~15%-31%), partial hair albinism (~45%), hearing impairment (~60%), hypopigmented skin spots (~21.8%), nasal root hyperplasia (~75.5%), and lower lacrimal dystopia (~14%). The prevalence rates described for each diagnostic sign is an estimate of type I WS. Other studies have also reported similar prevalence rates (Liu et al., 1995) (Tamayo et al., 2008). The only difference between type I and type II is that type II patients are more likely to experience hearing loss (~80.3%), less likely to develop lacrimal dystopia (~1.6%), and will not experience telecanthus (Tamayo et al., 2008).
 
 Type III, also called Klein-Waardenburg syndrome (Gorlin et al., 1976) has very similar symptoms to type I. The most prevalent phenotype being hearing loss (57.1%) (Song et al. 2016). Additionally, type III individuals have shortened muscles in the fingers leading to fused digits, dysfunction of the shoulder blade causing it to protrude out at a different location than normal (Pingault et al., 2010), and sometimes developmental or mental retardation (Sheffer and Zlotogora, 1992). Type III is the rarest of the 4 types.
 
 Type IV, also called Shah-Waardenburg syndrome, has some of the eight cardinal diagnostic signs, such as pigmentation deficiencies of melanocytes in skin, eyes, and hair, and hearing loss. Type IV is accompanied by another disease, Hirschsprung disease (Shah et al., 1981). Hirschsprung syndrome is, in short, a lack of nerve (ganglion) cells in the gastrointestinal tract. As a result, individuals with type IV will have difficulties with constipation and nutrient absorption. Although only a few of the diagnostic signs of WS are present in type IV, the prevalence of hearing loss remains a defining and prevalent (~53.3%) factor for Shah-Waardenburg syndrome (Song et al., 2016).
 
-###Clinical management
+### Clinical management
 There is currently no cure for any type of WS. Fortunately, affected individuals will usually have a normal life expectancy, and, with treatment, (and sometimes cosmetic applications) can live relatively normally. In 1969, a standard measurement for the inner and outer canthal distance for newborns was published (Laestadius et al., 1969). Later, the Waardenburg Consortium created the W-index, which included measurements mentioned previously, along with the distance of the inner pupillary, which allows for easy comparison between non-affected and affected WS newborns (Farrer et al., 1992). Most patients will receive a hearing aid or cochlear implants (Chatzinasiou et al., 2015). Melanocyte migration dysfunction appears to be a harmless phenotype; however, it is recommended to avoid prolonged sun exposure to protect the skin (NORD, 2019). Additional treatment will have some variation depending on the type. Most type III patients do not need to undergo any major treatment regarding upper limb abnormalities, but physical therapy is recommended as a supporting measure to improve upper body motion, and in severe cases, surgery is an option (Skalsky and McDonald, 2012). Type IV patients should receive similar treatments to Hirschsprung. With severe cases requiring surgery to remove the blockage of the gastrointestinal tract, and a colostomy (NORD, 2019).
 
 Gene identification and genetic etiology
@@ -26,10 +29,10 @@ Across all types (and subtypes), there are 6 associated genes; PAX3 (2q36.1), MI
 
 Heterozygous mutations of the SOX10 gene have been associated with type IV, and carriers of this SOX10 mutation are noted to have symptoms of the central nervous system such as ataxia and seizures (Amiel and Lyonnet, 2001). Lastly, de novo mutations can occur with no family history of WS or associated genetic mutations at those loci (Milunsky, 2017).
 
-###Genetic testing
+### Genetic testing
 Genetic testing for WS is available via gene panels such as Waardenburg Syndrome Panel, Centogene, Prevention Genetics, and Waardenburg Syndrome NGS Panel. All of which contain panels for mutations in the 6 associated genes of WS. Testing usually involves PCR amplification of known genes and NGS sequencing for intron-exon borders, or whole-genome sequencing (Milunsky, 2017).
 
-###Molecular mechanism of disease
+### Molecular mechanism of disease
 The mutations of Waardenburg syndrome are apparent during early embryonic development. More specifically involving a group of STEM cells called neural crest cells, which are a group of cells responsible for the development of melanocytes and craniofacial cartilage, as well as various types of neurons, muscle, skin, and bone cells (Haung, X).
 
 WS type I and III arise from a dominant mutation in the PAX3 (paired box gene 3) gene (Read et al.,1997). PAX genes’ main function is to help the formation of tissues during embryonic development and maintaining proper function after birth (Potterf et al., 2000). The PAX3 gene encodes a transcription factor, whose job is to keep the epithelial to mesenchymal transition (EMT) window open for cells in the neural crest to divide and migrate to their destination after gastrulation (Bronner, 2012). It has also been observed to have both transcription stimulating and repression domains for most target genes (Mayanil et al., 2001), and can interact and dimerize with other PAX proteins to regulate transcriptional activity (Schäfer et al.,1994). PAX3 is a transactivator of the microphthalmia-associated transcription factor (MITF), and proteins associated with PAX3 in both domains failed to transactivate MITF in WS, resulting in auditory-pigmentary symptoms in WS1 individuals (Watanabe et al., 1998).
@@ -38,12 +41,12 @@ There are five subtypes of type II WS, all affected by various genes, the most c
 
 Type IV is also divided into three subtypes, the most common being type IVa. The human endothelin-B receptor (EDNRB) gene was found to be associated with Hirschsprung disease mapped to 13q22 and dose-sensitive, with homozygotes at a 74% risk and heterozygotes at a 21% risk (Puffenburger et al., 1994). 
   
-###Animal or cellular models of disease
+### Animal or cellular models of disease
 Splotch (Sp) mice are used to model WS type I and III (Moase, 1992). These mice contain a mutation in the Sp gene which is associated with Pax-3. This was determined by Epstein et al. (1991), who used Sp mice to investigate the role of Sp associated genes in the development of neural crest cells. Also, the effect of modifier genes was modeled in hamsters to account for phenotypic variation (Asher and Friedman, 1990). Microphthalmia (mi) and Slugh (SLUG) mouse models were used to describe type II WS, where they found that a heterozygote for one of these mutations did not show the phenotype, suggesting human haploinsufficiency (Tachibana, 2003).
 
 Type IV WS was modeled via a novel mouse model with a mutation in the Ednrb gene by Matsushima et al. (2002). The study noted that these mice showed extensive white spotting, dominant megacolon (Dom) expression, and their cochleae lacked neural crest melanocytes, the mice also did not respond to sound. Breeding analysis was conducted and determined that the Ednrb gene lacked exons 2 and 3. Dom mice models are lethal homozygotes and heterozygotes have white spotting and enlarged colon (Tachibana, 2003).
 
-###References
+### References
 Amiel, J. and S. Lyonnet. 2001. "Hirschsprung Disease, Associated Syndromes, and Genetics: A Review." Journal of Medical Genetics 38 (11): 729-739. doi:10.1136/jmg.38.11.729. www.scopus.com.
 
 Asher, J. H., Jr., Friedman, T. B. Mouse and hamster mutants as models for Waardenburg syndromes in humans. J. Med. Genet. 27: 618-626, 1990.[PubMed: 2246770] [Full Text]
